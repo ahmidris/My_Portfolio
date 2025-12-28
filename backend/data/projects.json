@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "title": "E-Commerce Platform",
+        "description": "A full-stack e-commerce platform with user authentication, product catalog, shopping cart, and payment integration. Built with modern web technologies for optimal performance.",
+        "image": "https://picsum.photos/seed/ecommerce/800/450",
+        "tech": [
+            "React",
+            "Node.js",
+            "MongoDB",
+            "Stripe"
+        ],
+        "link": "https://github.com/ahmidris/My-E-commerce-App"
+    },
+    {
+        "id": 2,
+        "title": "Task Management App",
+        "description": "A collaborative task management application featuring real-time updates, team workspaces, and progress tracking. Implements drag-and-drop functionality for intuitive task organization.",
+        "image": "https://picsum.photos/seed/taskapp/800/450",
+        "tech": [
+            "React",
+            "Firebase",
+            "Material-UI",
+            "TypeScript"
+        ],
+        "link": "https://github.com/yourusername/task-manager"
+    },
+    {
+        "id": 3,
+        "title": "Weather Dashboard",
+        "description": "An interactive weather dashboard that displays current conditions and forecasts using geolocation and weather APIs. Features beautiful data visualizations and responsive design.",
+        "image": "https://picsum.photos/seed/weather/800/450",
+        "tech": [
+            "JavaScript",
+            "REST API",
+            "Chart.js",
+            "CSS3"
+        ],
+        "link": "https://github.com/yourusername/weather-dashboard"
+    },
+    {
+        "id": 4,
+        "title": "Social Media Analytics",
+        "description": "A comprehensive analytics dashboard for tracking social media metrics across multiple platforms. Includes data visualization, export functionality, and automated reporting.",
+        "image": "https://picsum.photos/seed/analytics/800/450",
+        "tech": [
+            "Python",
+            "React",
+            "PostgreSQL",
+            "Docker"
+        ],
+        "link": "https://github.com/yourusername/social-analytics"
+    },
+    {
+        "id": 5,
+        "title": "Portfolio Website",
+        "description": "A modern, responsive portfolio website showcasing projects and skills. Features dark mode, smooth animations, and contact form with backend integration.",
+        "image": "https://picsum.photos/seed/portfolio/800/450",
+        "tech": [
+            "React",
+            "Node.js",
+            "Express",
+            "CSS3"
+        ],
+        "link": "https://github.com/yourusername/portfolio"
+    },
+    {
+        "id": 6,
+        "title": "Chat Application",
+        "description": "Real-time chat application with private messaging, group chats, and file sharing capabilities. Implements WebSocket for instant message delivery.",
+        "image": "https://picsum.photos/seed/chatapp/800/450",
+        "tech": [
+            "React",
+            "Socket.io",
+            "Node.js",
+            "MongoDB"
+        ],
+        "link": "https://github.com/yourusername/chat-app"
+    }
+]
